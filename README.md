@@ -3,4 +3,4 @@ To-do list com JavaScript, HTML e CSS.  Persistência dos dados em local storage
 
 
 ## Preview
-![image](https://user-images.githubusercontent.com/81372983/224018234-06ee26ce-f433-4e92-9a86-b211f8b12e20.png)
+![image](https://user-images.githubusercontent.com/81372983/224026022-a4eeeeb5-a759-4ea7-bcdd-f7266a77a4e8.png)
